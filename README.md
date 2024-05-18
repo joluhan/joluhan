@@ -8,9 +8,3 @@ I'm a dedicated Python Developer trained at OpenClassrooms. I specialize in buil
 - **Tools**: Git, Docker, Postman, Sentry, CircleCI
 - **Databases**: PostgreSQL, SQLite
 
-### 🚀 Projects
-- **Market Analysis Tool**: Automated online book price analysis (Python, BeautifulSoup, pandas)
-- **JustStreamIt**: Real-time movie rating dashboard (HTML, CSS, JavaScript)
-- **Chess Tournament Manager**: Python app for tournament management (Python, JSON)
-- **LITReview**: Book review platform (Django, SQLite)
-- **SoftDesk API**: Secure project management API (Django REST Framework)
